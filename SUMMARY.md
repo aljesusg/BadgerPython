@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](introduction.md)
-* Class and methods
+* [Class and methods](class_and_methods/class_and_methods.md)
 
